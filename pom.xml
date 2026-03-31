@@ -28,6 +28,10 @@
 	</scm>
 	<properties>
 		<java.version>17</java.version>
+		<sonar.proyectKey>JeronimoDuque_lab-2-arquisoft</sonar.proyectKey>
+		<sonar.organizationKey>jeronimoduque</sonar.organizationKey>
+		<sonar.host.url>http://sonarcloud.io</sonar.host.url>
+		
 	</properties>
 	<dependencies>
 		<dependency>
